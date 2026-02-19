@@ -19,3 +19,6 @@ This project aims to predict movie ratings (vote_average) using regression techn
 ## Repository Contents
 - `movie_rating_ipynb.ipynb`: Complete Python code and analysis.
 - `Predicting-Movie-Ratings-with-Machine-Learning.pptx`: Detailed project presentation.
+
+#Dataset: The data used in this project is the TMDB 5000 Movie Dataset available on Kaggle.
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
