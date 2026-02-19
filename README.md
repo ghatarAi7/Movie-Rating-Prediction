@@ -1,7 +1,13 @@
 # Movie Rating Prediction with Machine Learning
+#Project Overview
+This project was developed as part of the Machine Learning course. The primary goal is to predict movie ratings (vote average) by leveraging the TMDB 5000 Movie Dataset. By analyzing various movie attributes such as budget, revenue, genres, keywords, cast, and crew, we built and evaluated multiple regression models to forecast audience reception.
 
-## Project Overview
-This project aims to predict movie ratings (vote_average) using regression techniques. By analyzing the **TMDB 5000 Movie Dataset**, we built a model that can forecast audience reception based on movie attributes like budget, genres, and cast.
+Team Members
+Ghatar Butti Alqhtani
+
+Abdullah Saad Al-Qarni
+
+Supervised by: Dr. Ali Falih Al-Shahrani
 
 ## Methodology
 - **Data Preprocessing:** Merged movie and credits datasets, handled missing values.
